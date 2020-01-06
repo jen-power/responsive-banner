@@ -1,0 +1,16 @@
+html {
+  color: #fff;
+  background-color: #495562;
+  font-family: Georgia, serif;
+}
+
+.btn-ghost {
+  color: #fff;
+  border-color: #fff;
+}
+
+.banner {
+  background:
+  linear-gradient(to bottom, rgba(73, 85, 98, 0), rgba(73, 85, 98, .9)) no-repeat center bottom / 100% 100%,
+  url("../images/earth-horizon.jpg") no-repeat center bottom / cover;
+}
