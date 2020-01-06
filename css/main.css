@@ -6,7 +6,7 @@ html {
 
 .btn-ghost {
   color: #fff;
-  border-color: #fff;
+  border-color: #97a49b;
 }
 
 .btn-ghost:hover {
@@ -15,10 +15,10 @@ html {
 }
 
 .banner {
-  background-image: linear-gradient(to bottom, rgba(73, 85, 98, 0), rgba(73, 85, 98, .9)) no-repeat center bottom / 100% 100%;
+  background-image: linear-gradient(to bottom, rgba(73, 85, 98, 0), rgba(73, 85, 98, .9));
 }
 
-@media only screen and (min-width: 38em) {
+@media only screen and (min-width: 60em) {
 
   .right {
     text-align: right;
